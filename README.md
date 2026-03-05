@@ -4,15 +4,13 @@ I study Computer Engineering at ISCTE-IUL, currently in my 2nd year.<br>
 I’m passionate about technology and software development.  
 This GitHub profile is where I share personal projects, experiments, and what I’m learning along the way.
 
-<br>🔧 Currently learning:
+<br> 🔧 Currently learning:
 - Scala (functional programming)
 - Prolog (logic programming)
+- Python (Algorithm analysis)
 
-<br>📚 Always trying to improve my skills and build practical projects.
-
-Thanks for visiting my profile!
-
-<div style="display: inline_block"><br>
+<br> 🎓 What I´ve learned
+<div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +22,17 @@ Thanks for visiting my profile!
   <img align="center" alt="git" height="75" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+</div>
+
+<br>📚 Always trying to improve my skills and build practical projects.
+
+Thanks for visiting my profile!<br><br>
+
+## 🔗 Social Networks
+
+<div>
+  <a href="https://www.linkedin.com/in/rúben-fonseca-16b730351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rubenlfonseca25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
